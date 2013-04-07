@@ -1,0 +1,6 @@
+[submodule "ogd2osm"]
+	path = ogd2osm
+	url = git://github.com/jgrnt/ogd2osm.git
+[submodule "OGD-stmk-daten"]
+	path = OGD-stmk-daten
+	url = git@github.com:jgrnt/OGD-stmk-daten.git
